@@ -1,11 +1,11 @@
 {
-  "id": "dev.replugged.ThemeTemplate",
-  "name": "Theme Template",
-  "description": "A theme template",
+  "id": "dev.replugged.MicchonShikimori",
+  "name": "Micchon Shikimori",
+  "description": "FrostedGlass Edit",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "Blanc",
+    "discordID": "824922747423031359",
+    "github": "BlancSy"
   },
   "version": "1.0.0",
   "updater": {
